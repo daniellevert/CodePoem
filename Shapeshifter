@@ -1,0 +1,10 @@
+blue_and_green_sphere = the_world
+black_orb = i
+
+we = blue_and_green_sphere + black_orb
+
+we R== (not)same
+
+# transmit transmit transmit
+hello (black_orb on the_surface):
+    print("you did not change me")

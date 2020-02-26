@@ -5,6 +5,31 @@ we = blue_and_green_sphere + black_orb
 
 we R== (not)same
 
-# transmit transmit transmit
-hello (black_orb on the_surface):
-    print("you did not change me")
+
+def transmitToOrb():
+    #
+    # transmit transmit transmit
+    #
+    hello (black_orb on mySurface):
+        print("i pinched you")
+        black_orb += shapeshift5
+        print("i squeezed you")
+        black_orb += shapeshift50
+        print("i crushed you")
+        black_orb += shapeshift100000
+        
+    black_orb = survived
+    
+    loop (for change):
+        growth(black_orb)
+    
+    print("But oh shapeshifter, you'll never change" + theWorld)
+        
+    send
+    
+    
+def transmitToSphere():
+    #
+    # transmit transmit transmit
+    #
+    
